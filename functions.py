@@ -11,9 +11,6 @@ def format_product(name, category):
         category = category[0].upper() + category[1:]
         return (name, category)
 
-
-
-
 def show_list(inventory_list):
    product_dict = []
    for item in inventory_list:
