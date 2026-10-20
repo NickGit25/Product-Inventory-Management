@@ -1,4 +1,3 @@
-import streamlit as st
 from product_class import Product
 
 inventory_list = [
